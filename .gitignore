@@ -14,5 +14,3 @@ myprogresspath.iml
 *.ntvs*
 *.njsproj
 *.sln
-
-dist/
