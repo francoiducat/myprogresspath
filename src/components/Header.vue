@@ -1,7 +1,7 @@
 <template>
     <div>
       <img src="../assets/progressLogo.png">
-      HEADER HERE
+      HEADER HERE SEE ?
     </div>
 </template>
 
