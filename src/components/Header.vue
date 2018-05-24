@@ -1,7 +1,7 @@
 <template>
   <div>
     <img src="../assets/progressLogo.png">
-    HEADER HERE SEE OR NOT WTF ?!?
+    HEADER HERE SEE OR NOT ?
   </div>
 </template>
 
