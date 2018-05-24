@@ -10,7 +10,8 @@
     "start": "node server.js",
     "unit": "jest --config test/unit/jest.conf.js --coverage",
     "test": "npm run unit",
-    "lint": "eslint --ext .js,.vue src test/unit"
+    "lint": "eslint --ext .js,.vue src test/unit",
+    "heroku-postbuild": "npm install --only=dev --no-shrinkwrap && npm run build"
   },
   "dependencies": {
     "express": "^4.16.3",
